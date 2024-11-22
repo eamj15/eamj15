@@ -1,6 +1,7 @@
 Hola!✋ Soy Erick Méndez Jurado  
 
-![Erick Méndez](https://github.com/user-attachments/assets/cff06444-102d-4ae0-861b-5d15ddbb4e3d)
+![image](https://github.com/user-attachments/assets/a96b5f60-02b8-4df2-8365-f3aa6314d3e8)
+
 
 
 ## Habilidades
