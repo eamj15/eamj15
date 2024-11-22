@@ -1,5 +1,6 @@
-Mi nombre es Erick Méndez, soy de Panamá, actualmente estudiante de la Universidad Técnologica de Panamá
+Hola!✋ Soy Erick Méndez Jurado  
 
+![Erick Méndez](https://github.com/user-attachments/assets/cff06444-102d-4ae0-861b-5d15ddbb4e3d)
 
 
 ## Habilidades
