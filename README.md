@@ -4,7 +4,7 @@ Hola!✋ Soy Erick Méndez Jurado
 
 ## 💼 Habilidades Técnicas
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,c,cpp,bootstrap,git,java,nodejs,react,tailwind,visualstudio,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,c,cpp,bootstrap,git,java,nodejs,react,tailwind,visualstudio,androidstudio)](https://skillicons.dev)
 
 ## 📈 Estadísticas
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eamj15&show_icons=true&theme=tokyonight)
