@@ -15,3 +15,10 @@ Hola!✋ Soy Erick Méndez Jurado
 * C++ 
 * C 
 * Visual Basic 
+
+
+## 📈 Estadísticas
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eamj15&show_icons=true&theme=tokyonight)
+
+## ⌨️ Lenguajes
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eamj15&layout=compact&theme=tokyonight)](https://github.com/Lagaress/github-readme-stats)
