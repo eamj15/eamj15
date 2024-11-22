@@ -1,4 +1,4 @@
-Hola!✋ Soy Erick Méndez Jurado  
+<h2 align ="center"> Hola!✋ Soy Erick Méndez Jurado  </h2>
 
 ![image](https://github.com/user-attachments/assets/a96b5f60-02b8-4df2-8365-f3aa6314d3e8)
 
